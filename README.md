@@ -18,7 +18,7 @@
 
 ## Requisitos
 
-- Sistema operacional baseado em Linux (testado no Kali Linux).
+- Sistema operacional baseado em Linux.
 - Bash shell.
 - Comando `ping` disponível e com permissão para execução.
 
